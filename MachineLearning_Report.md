@@ -42,7 +42,8 @@ of data points when plotted against each other, the k-nearest neighbors
 model was used to assess the outcome of the different parental crosses. 
 Mean seed weights and mean percent shriveled seeds represent the means for 
 an individual seed pod (silique). Model was created using scikit-learn in 
-Python. All code and info can be found at _______________.
+Python. All code and info can be found at 
+https://github.com/NathanChristopherJames/seed_classifier.git.
 
 ## Results
 
