@@ -1,5 +1,5 @@
 # Altered ploidy levels results in parent-of-origin effects on Arabidopsis 
-seeds
+# seeds
 
 ## Introduction
 Seeds are a vital agricultural commodity, being used directly for human 
