@@ -1,4 +1,4 @@
-Mean seed weight	Mean percent shriveled seeds	Embryo ploidy
+Mean_seed_weight	Mean_percent_shriveled_seeds	Embryo_ploidy
 22	2	diploid
 24	2	diploid
 23	1	diploid
