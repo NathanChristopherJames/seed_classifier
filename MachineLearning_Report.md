@@ -46,9 +46,40 @@ Python. All code and info can be found at
 https://github.com/NathanChristopherJames/seed_classifier.git.
 
 ## Results
-
+Although the k-nearest neighbors model had a score of 1, after plotting 
+the model results it was noticed that the diploid (wild-type) group 
+extended into the triploid group on the right of the graph. Therefore, a 
+cross validation of the n_neighbors hyperparameter was performed to 
+determine if there was a more suitable hyperparameter. Following the 
+hyperparameter cross validation, a graph of the results did highlight that 
+a smaller n_neighbors (between 1-3) would be better suited than the 
+original n_neighbors of 5. After replotting these results with the new 
+hyperparameter, the diploid group no longer extended into the triploid 
+group, providing a more accurate model; the model score also remained at 
+1. 
 
 ## Discussion
+By using the k-nearest neighbors model, it was demonstrated that this 
+could be a useful tool in providing additional support that the plant 
+crosses performed did result in triploid embryos. By further finetuning 
+the model with adjusted hyperparameters, the accuracy of the model was 
+improved to the right of the plotted diploid seeds. However, to the left 
+side of this grouping the current model would still classify aberrant 
+seeds that are smaller with under 30% of the seed total being shriveled. 
+Therefore, additional seed data for this area of the plot would be useful 
+in the future; this could be satisfied with maternal excess triploid 
+embryos that produce smaller seed sets. 
+
+An additional classification of these different triploid seeds may also be 
+interesting to add to the model in the future. For example, the upper left 
+side of the graph is one specific ecotype of Arabidopsis, while the lower 
+right side are a variety of different ecotypes. By including this 
+categorical data into the model, it may extend the application of this 
+machine learning tool.
+
+## References
+Wilkins, C. A. (2021). Epigenetic regulation of seed size in Arabidopsis: 
+harnessing ecotype variation in paternal killer genes. Unpublished.
 
 
 
