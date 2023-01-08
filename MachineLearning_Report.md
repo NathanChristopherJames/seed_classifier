@@ -9,7 +9,7 @@ therefore an important area of scientific investigation. One method that
 is able to affect the size of seeds is by altering their ploidy levels, 
 i.e., by changing the number of chromosomal sets within the seed. 
 Unfortunately, plants do not always respond well to these changes, 
-resulting in a loss of seed viability. In Arabidopsis thaliana, the 
+resulting in a loss of seed viability. In *Arabidopsis thaliana*, the 
 effects of increased ploidy levels differ depending on the parent (pollen 
 or egg cell) that provided the additional chromosomal sets: maternal 
 excess results in smaller seeds, while paternal excess results in larger 
